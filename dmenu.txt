@@ -1,0 +1,8 @@
+libxinerama
+libpng
+graphite
+harfbuzz
+freetype2
+fontconfig
+libxft
+dmenu
