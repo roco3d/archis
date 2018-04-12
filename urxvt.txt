@@ -1,0 +1,10 @@
+rxvt-unicode-terminfo
+libpng
+graphite
+harfbuzz
+freetype2
+fontconfig
+libxft
+xcb-util
+startup-notification
+rxvt-unicode
