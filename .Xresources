@@ -1,0 +1,10 @@
+!Xft.antialias:		true
+!Xft.rgba:		rgb
+!Xft.hinting:		true
+!Xft.hintstyle:		hintslight
+
+URxvt.reverseVideo:	true
+URxvt.fading:		50
+!URxvt.fadeColor:	rgb:25/51/77
+URxvt.font:		xft:Hack:regular:size=9,xft:Symbola
+URxvt.scrollBar:	false
